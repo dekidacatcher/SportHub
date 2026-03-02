@@ -34,7 +34,6 @@ h2{
     align-items: stretch;
     margin-left: 100px;
     margin-bottom: 40px;
-    margin-right:0px
 }
 .container{
     display: inline-flex;
@@ -104,5 +103,6 @@ button:hover{
     text-shadow: 2px 2px 5px #706b6b
 
 }
+
 
 
